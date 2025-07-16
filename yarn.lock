@@ -1981,10 +1981,10 @@ to-regex-range@^5.0.1:
   dependencies:
     is-number "^7.0.0"
 
-trie-autocomplete-ps@^1.1.4:
-  version "1.1.4"
-  resolved "https://registry.yarnpkg.com/trie-autocomplete-ps/-/trie-autocomplete-ps-1.1.4.tgz#061f6e1626bd9640991da32c5ebff43b7e57bebb"
-  integrity sha512-S3a+9lNg7VmEa8CwLoeEziLb8W5tZQmjJLnjP4b7t3WWivpbQz5GfO2YAF56DLyc20MzL1JlFyHBh75obndVTw==
+tree-autocomplete@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/tree-autocomplete/-/tree-autocomplete-1.0.0.tgz#4be1b5dda60787e9a49da7f0f39733690940f87c"
+  integrity sha512-/bV1Ndp/qa0csfR9fm52pSh9vWTp6z0W9av0pZSNo2JyG22x7yg4brnn3wpYZ06NNeuoT62GnS/FSXHgSl/Gjg==
   dependencies:
     "@rollup/plugin-node-resolve" "^16.0.1"
 

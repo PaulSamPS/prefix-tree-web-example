@@ -12,7 +12,7 @@ import { ActionButton } from "./components/action-button.tsx";
 import { AddItemForm } from "./components/add-item-form.tsx";
 import { SearchSection } from "./components/search-section.tsx";
 import { ResultsList } from "./components/results-list.tsx";
-import { tree } from "trie-autocomplete-ps";
+import { tree } from "tree-autocomplete";
 
 function App() {
   const [stats, setStats] = useState({

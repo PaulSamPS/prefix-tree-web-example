@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Search, CheckCircle, XCircle } from "lucide-react";
 import { AutocompleteInput } from "./autocomplete-input.tsx";
-import { tree } from "trie-autocomplete-ps";
+import { tree } from "tree-autocomplete";
 
 interface SearchSectionProps {
   onSearch: (query: string) => void;
